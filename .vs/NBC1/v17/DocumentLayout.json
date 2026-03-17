@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|solutionrelative:NBC1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\Status.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|solutionrelative:NBC1\\Status.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\PlayManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|solutionrelative:NBC1\\PlayManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\PlayManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|solutionrelative:NBC1\\PlayManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\Status.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|solutionrelative:NBC1\\Status.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\PlayManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|solutionrelative:NBC1\\PlayManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|solutionrelative:NBC1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\PlayManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2AB54D7-DED6-46C6-90A4-D24969280585}|NBC1\\NBC1.vcxproj|solutionrelative:NBC1\\PlayManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayManager.h",
               "DocumentMoniker": "C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\PlayManager.h",
               "RelativeDocumentMoniker": "NBC1\\PlayManager.h",
@@ -42,51 +42,50 @@
               "RelativeToolTip": "NBC1\\PlayManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-17T08:08:21.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T08:08:21.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PlayManager.cpp",
               "DocumentMoniker": "C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\PlayManager.cpp",
               "RelativeDocumentMoniker": "NBC1\\PlayManager.cpp",
               "ToolTip": "C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\PlayManager.cpp",
               "RelativeToolTip": "NBC1\\PlayManager.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAG8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-17T08:08:09.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Status.h",
               "DocumentMoniker": "C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\Status.h",
               "RelativeDocumentMoniker": "NBC1\\Status.h",
               "ToolTip": "C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\Status.h",
               "RelativeToolTip": "NBC1\\Status.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-17T08:07:42.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Status.cpp",
               "DocumentMoniker": "C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\Status.cpp",
               "RelativeDocumentMoniker": "NBC1\\Status.cpp",
               "ToolTip": "C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\Status.cpp",
               "RelativeToolTip": "NBC1\\Status.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-17T08:07:55.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Jaeseong\\Desktop\\Github\\NBC1\\NBC1\\main.cpp",
               "RelativeDocumentMoniker": "NBC1\\main.cpp",

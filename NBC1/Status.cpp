@@ -1,6 +1,7 @@
 //Status.cpp
 
 #include "Status.h"
+using namespace std;
 
 Status::Status(int HP, int MP, int Atk, int Dfs) {
 	//기본 스텟 정의

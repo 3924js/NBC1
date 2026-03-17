@@ -18,7 +18,7 @@ enum StatType {	//스텟 이름 열거형
 	COUNT
 };
 //스텟 이름 전역변수
-const string StatName[StatType::COUNT] =
+const std::string StatName[StatType::COUNT] =
 {"레벨","HP", "MP", "공격력", "방어력", "힘", "지능", "화술","HP포션", "MP포션"};
 
 class Status {
