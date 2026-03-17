@@ -39,7 +39,7 @@ void Status::IncreaseAtk() {//공격력 증가 함수
 }
 void Status::IncreaseDfs() {//방어력 증가 함수
 	cout << "방어력 2배!" << endl;
-	Stats[StatType::DFS] = Stats[StatType::DFS] << 2;
+	Stats[StatType::DFS] = Stats[StatType::DFS] << 1;
 }
 void Status::LevelUp() {	//레벨업 함수
 	cout << "레벨업! HP/MP포션이 하나씩 지급됩니다!" << endl;

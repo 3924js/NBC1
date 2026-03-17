@@ -3,7 +3,6 @@
 #include <iostream>
 #include <string>
 #include <vector>
-using namespace std;
 
 enum StatType {	//스텟 이름 열거형
 	LV,

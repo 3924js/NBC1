@@ -2,7 +2,6 @@
 
 #include <string>
 #include "Status.h"
-using namespace std;
 
 class PlayManager {
 private:	//Play()반복문 함수를 통해서만 Status 접근 가능
